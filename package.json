@@ -1,0 +1,34 @@
+{
+  "name": "smart-ecom",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Muhammad Noraiz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt": "^2.0.1",
+    "body-parser": "^1.18.2",
+    "did-you-mean": "0.0.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "keyword-extractor": "0.0.15",
+    "lodash": "^4.17.11",
+    "missing": "0.0.1",
+    "mongoose": "^5.0.13",
+    "nodemailer": "^4.7.0",
+    "nodemon": "^1.17.3",
+    "passport": "^0.4.0",
+    "pusher": "^2.1.3",
+    "randomstring": "^1.1.5",
+    "underscore": "^1.9.1",
+    "watson-developer-cloud": "^3.7.0"
+  },
+  "engines": {
+    "node": "8.0.0"
+  }
+}
